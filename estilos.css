@@ -1,0 +1,32 @@
+@charset "utf-8";
+#todo {
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 800px;
+}
+#banner {
+	width: 1200px;
+	height: 150px;
+}
+#coordenadas {
+	left: auto;
+	right: auto;
+	/* [disabled]margin-left: 200px; */
+	/* [disabled]margin-right: auto; */
+	padding-right: auto;
+	padding-left: auto;
+	width: 300px;
+	min-width: 0px;
+	max-width: none;
+}
+#contenido video {
+	width: 1200px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#header {
+	width: 1200px;
+	margin-left: 0px;
+}
